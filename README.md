@@ -1,4 +1,0 @@
-MyCode
-======
-
-my homework code
